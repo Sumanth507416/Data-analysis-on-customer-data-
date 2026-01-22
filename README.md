@@ -1,2 +1,2 @@
-# Data-analysis-on-customer-data-
-“How can the company leverage consumer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?”
+# Data-analysis on customer-data
+customer behaviour on orders 
